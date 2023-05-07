@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* font-family: 'Oswald', sans-serif; */
+    font-family: 'Bruno Ace SC', cursive;
+    border-bottom: 1px solid rgb(177, 177, 177);
+    background-color: #010101;
+    color: white;
+
+}
+.afternav{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px 10% 20px 10%;
+    font-size: 13px;
+    border-bottom: 1px solid rgb(177, 177, 177);
+    background-color: #010101;
+    color: white;
+
+}
+.afternav div :hover{
+    cursor: pointer;
+}

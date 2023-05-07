@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+.howitworks{
+    display: flex;
+    background-color: #010101fb;
+    color: rgba(255, 255, 255, 0.788);
+
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+.step{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.5rem;
+    border-bottom: 1px solid rgb(177, 177, 177);
+
+}
+.headd{
+    color: #c5bbd6;
+}
+.feature{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 2rem;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    background-color: #010101fb;
+
+
+}

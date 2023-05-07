@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ramabhadra&display=swap');
+
+.home{
+    margin-top: 20px;
+    height: 770px;
+    color: white;
+    /* background-color: rgb(189, 189, 189); */
+    display: flex;
+    flex-direction: row;
+    background: url(./hmm.jpg);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; 
+}
+.homeleft{
+    width: 35%;
+   
+
+}
+.homeright{
+    width: 65%;
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.tag{
+    font-family: 'Ramabhadra', sans-serif;
+    color: black;
+
+}
+.heading{
+    font-size: 5vw;
+    font-family: 'Squada One', cursive;
+    color: rgb(189, 129, 107);
+}
+button{
+    background-color: transparent;
+    font-family: 'Squada One', cursive;
+    padding: 10px 15px 10px 15px;
+}
+.bt{
+    width: 20%;
+}
