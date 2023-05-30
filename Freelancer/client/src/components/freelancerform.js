@@ -88,11 +88,14 @@ const Freelancerform = () => {
       }
     return (
         <div id="deals"  className='dealplusform'>
+
             <div className='sync'>
             <p>To get sync with the Smart Contract</p>
             <button onClick={refresh} disabled={isLoading}>Sync</button>
             </div>
+
             {isLoading ? <LoadingSpinner /> : refresh}
+            
             {pid>0 && pstatus !== "2"?<div className="associateddeals">
             <h1>ASSOCIATED DEAL</h1>
             <div>
