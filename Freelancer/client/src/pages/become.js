@@ -8,6 +8,7 @@ import Navbar from '../components/navbar'
 import Howitworks from '../components/howitworks'
 import './become.css'
 import Feature from '../components/feature'
+import ProjectDescriptionCard from '../components/info'
 const Become = () => {
   return (
     <>
@@ -20,6 +21,7 @@ const Become = () => {
       <Feature/>
       <Footer/>
     </div>
+    <ProjectDescriptionCard/>
     </>
       
   )

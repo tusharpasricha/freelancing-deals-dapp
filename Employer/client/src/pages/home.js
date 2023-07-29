@@ -6,9 +6,12 @@ import Navbar from '../components/navbar'
 import Front from '../components/front'
 import Howitworks from '../components/howitworks'
 import Feature from '../components/feature'
+import ProjectDescriptionCard from '../components/info'
+
 
 const Home = () => {
   return (
+    <>
     <div>
         <Navbar/>
         <Afternav/>
@@ -18,6 +21,9 @@ const Home = () => {
         <Feature/>
         <Footer/>
     </div>
+    <ProjectDescriptionCard/>
+
+    </>
   )
 }
 
