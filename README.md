@@ -37,22 +37,22 @@ Solidity, React, Truffle, Ganache, Web3.js
 ### Freelancer
 
 
-![App Screenshot](/screenshots/f1.png)
-![App Screenshot](/screenshots/f2.png)
-![App Screenshot](/screenshots/f3.png)
+![App Screenshot](/screenshots/f1.png?raw=true "Optional Title")
+![App Screenshot](/screenshots/f2.png?raw=true "Optional Title")
+![App Screenshot](/screenshots/f3.png?raw=true "Optional Title")
 
 ### Employer
 
-![App Screenshot](/screenshots/e1.png)
-![App Screenshot](/screenshots/e2.png)
-![App Screenshot](/screenshots/e3.png)
+![App Screenshot](/screenshots/e1.png?raw=true "Optional Title")
+![App Screenshot](/screenshots/e2.png?raw=true "Optional Title")
+![App Screenshot](/screenshots/e3.png?raw=true "Optional Title")
 
 
 ## Diagrams
 
-![App Screenshot](/screenshots/d1.png)
-![App Screenshot](/screenshots/d2.png)
-![App Screenshot](/screenshots/d3.png)
+![App Screenshot](/screenshots/d1.png?raw=true "Optional Title")
+![App Screenshot](/screenshots/d2.png?raw=true "Optional Title")
+![App Screenshot](/screenshots/d3.png?raw=true "Optional Title")
 
 
 
