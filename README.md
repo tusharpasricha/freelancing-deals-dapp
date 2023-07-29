@@ -34,7 +34,29 @@ Solidity, React, Truffle, Ganache, Web3.js
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Freelancer
+
+
+![App Screenshot](/screenshots/f1.png)
+![App Screenshot](/screenshots/f2.png)
+![App Screenshot](/screenshots/f3.png)
+
+### Employer
+
+![App Screenshot](/screenshots/e1.png)
+![App Screenshot](/screenshots/e2.png)
+![App Screenshot](/screenshots/e3.png)
+
+
+## Diagrams
+
+![App Screenshot](/screenshots/d1.png)
+![App Screenshot](/screenshots/d2.png)
+![App Screenshot](/screenshots/d3.png)
+
+
+
+
 
 
 
